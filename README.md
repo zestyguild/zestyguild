@@ -1,16 +1,24 @@
-## Hi there 👋
+## zestyguild here 👋
 
-<!--
-**zestyguild/zestyguild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, breaking things, and learning something new every day. Based in Indonesia.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>About me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Python
+- ⚡ Fun fact: I debug faster with music on
+- 💬 Ask me about JavaScript
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zestyguild&layout=compact&langs_count=8&hide_border=true&theme=highcontrast" alt="Top languages" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zestyguild&hide_border=true&theme=highcontrast" alt="Commit streak" />
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=zestyguild&hide_border=true&theme=rogue" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-e3b341?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-e3b341?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Neovim-e3b341?style=for-the-badge&logoColor=white" alt="Neovim" /> <img src="https://img.shields.io/badge/JavaScript-e3b341?style=for-the-badge&logoColor=white" alt="JavaScript" />
+</p>
+
+</details>
+
+<sub>Thanks for stopping by — say hi if something here is useful to you.</sub>
